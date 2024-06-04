@@ -99,7 +99,7 @@ def handle(self, client_socket):
 
 # copyright@Anon 
 # devanon.netlify.app
-    # This project wasn't done yet please dont use right now
+    # This project wasn't done yet please don't use right now
     # I will make it soon :)</s>
 
     # (NetCat2.0 = ShellCat)
